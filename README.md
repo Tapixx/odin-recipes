@@ -1,1 +1,2 @@
 Hi! This repository is made to start practicing my skills as a learning software developer. In this repository I made a basic website using html which displays a few recipes. It is just a learning step for me and I hope it will lead to many more in the future.
+In this project I learnt how it feels to work with html, how I can link pages together and how to use git to make commits in my repository.
