@@ -1,0 +1,11 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    height: auto;
+    width: 600px;
+}
